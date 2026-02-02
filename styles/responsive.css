@@ -1,0 +1,180 @@
+/* Responsive Adjustments */
+
+/* Tablet & Up */
+@media (min-width: 768px) {
+    :root {
+        --text-base: 1.125rem;
+    }
+
+    /* Stack vertically */
+    .content-grid {
+        grid-template-columns: 1fr;
+    }
+
+    h1 {
+        font-size: var(--text-2xl);
+    }
+}
+
+/* Desktop & Up */
+@media (min-width: 1024px) {
+    .app-container {
+        padding: var(--space-6);
+    }
+
+    h1 {
+        font-size: var(--text-3xl);
+    }
+
+    .logo-img {
+        height: 90px;
+        width: 90px;
+    }
+
+    .content-grid {
+        grid-template-columns: 1fr;
+        /* Maintain vertical stack */
+        gap: var(--space-8);
+        max-width: 900px;
+        /* Limit width for better readability on wide screens */
+        margin: 0 auto;
+    }
+}
+
+/* Mobile (All sizes below tablet) */
+@media (max-width: 767px) {
+    :root {
+        --text-base: 0.875rem;
+    }
+
+    /* Container adjustments: Restore padding for floating header */
+    .app-container {
+        padding: var(--space-3);
+    }
+
+    /* Re-add padding to content since container lost it */
+    .content-grid {
+        padding: 0 var(--space-4);
+    }
+
+    header {
+        padding: var(--space-3);
+    }
+
+    .header-inner {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: var(--space-2);
+        justify-content: flex-start;
+    }
+
+    /* Logo - Keep size constrained */
+    .logo-link {
+        flex: 0 0 auto;
+        position: relative;
+        z-index: 2;
+        order: 1;
+        /* Ensure logo is clickable above title if overlap */
+    }
+
+    /* Header Center - Takes remaining space and allows wrapping */
+    .header-center {
+        flex: 1;
+        min-width: 0;
+        align-items: center;
+        order: 2;
+        /* Center align items specifically for mobile */
+    }
+
+    .logo-img {
+        height: 65px;
+        /* Increased from 50px */
+        width: 65px;
+    }
+
+    /* Title - Takes remaining space next to logo */
+    .header-inner h1 {
+        /* Remove flex: 1 since parent handles it */
+        position: static;
+        /* Reset absolute */
+        text-align: center;
+        margin: 0;
+
+        /* Increase Font Size Further */
+        font-size: 1.5rem;
+        /* Increased from 1.35rem */
+        line-height: normal;
+        /* Reset line-height */
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        pointer-events: auto;
+    }
+
+    /* Subtitle above Selector in Mobile */
+    .story-subtitle {
+        order: 3;
+        width: 100%;
+        margin-top: 0;
+        /* Reduced from space-1 */
+        border-top: none;
+        /* No border in middle of mobile header */
+        background: transparent;
+        padding: var(--space-1) 0;
+        /* Reduced from space-2 */
+        /* Minimized padding */
+    }
+
+    /* Ensure text truncates properly on mobile */
+    .story-subtitle a {
+        max-width: 100%;
+        overflow: hidden;
+    }
+
+    .subtitle-text {
+        flex: 1;
+        /* Allow text to shrink/grow */
+        min-width: 0;
+        /* Enable shrinking below content size */
+    }
+
+    /* Selector - Full width on new line */
+    #selector-container {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 0;
+        padding-top: var(--space-2);
+        border-top: 1px solid rgba(255, 255, 255, 0.05);
+        order: 4;
+        /* Subtle separator */
+    }
+
+    #language-selector {
+        width: 100%;
+        /* Make selector full width for easier touch */
+        max-width: 300px;
+    }
+
+    .accordion-header {
+        font-size: var(--text-base);
+    }
+
+
+}
+
+/* Touch Targets for Mobile */
+@media (hover: none) and (pointer: coarse) {
+
+    .accordion-header,
+    #language-selector,
+    .btn-primary {
+        min-height: 48px;
+    }
+
+    .item-card {
+        padding: var(--space-2) 0;
+    }
+}

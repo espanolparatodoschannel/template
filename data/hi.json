@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "titulo_historia": "भाषाई विश्लेषण",
+    "autor": "Usuario",
+    "fecha": "2026-02-01"
+  },
+  "titulo": "भाषाई विश्लेषण",
+  "conectores_logicos": [
+    {
+      "termino": "इसलिए",
+      "explicacion": "परिणाम या नतीजा दर्शाने वाला कनेक्टर।",
+      "ejemplo": "इंकाओं का मानना था कि सूर्य जीवन देता है... इसलिए, सूर्य मंदिर में बहुत सोना था।"
+    },
+    {
+      "termino": "भी",
+      "explicacion": "जानकारी जोड़ने या संयोजन करने वाला कनेक्टर।",
+      "ejemplo": "यहाँ कई देशों के पर्यटक हैं... स्थानीय लोग भी हैं।"
+    },
+    {
+      "termino": "उदाहरण के लिए",
+      "explicacion": "किसी विचार को स्पष्ट करने के लिए उदाहरण प्रस्तुत करने वाला कनेक्टर।",
+      "ejemplo": "मुझे नए शब्द सीखना पसंद है। उदाहरण के लिए, मैं 'पचमामा' शब्द सीखता हूँ।"
+    },
+    {
+      "termino": "अब",
+      "explicacion": "समय या क्रिया में परिवर्तन दर्शाने वाला कालिक कनेक्टर।",
+      "ejemplo": "अब, मैं संग्रहालय में प्रवेश करता हूँ।"
+    },
+    {
+      "termino": "यह समय है",
+      "explicacion": "वह अभिव्यक्ति जो इंगित करती है कि कुछ करने का उचित समय है।",
+      "ejemplo": "यह खाने का समय है।"
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "चमकना",
+      "explicacion": "वह क्रिया जो स्वयं प्रकाश उत्सर्जित करने या परावर्तित करने को दर्शाती है।",
+      "ejemplo": "सूर्य बहुत चमकता है और आकाश नीला है।"
+    },
+    {
+      "termino": "चलना",
+      "explicacion": "वह क्रिया जो पैदल चलने या आगे बढ़ने की क्रिया का वर्णन करती है।",
+      "ejemplo": "मैं पत्थर की सड़कों पर चलता हूँ।"
+    },
+    {
+      "termino": "खेती करना",
+      "explicacion": "वह क्रिया जिसका अर्थ है भोजन उत्पादन के लिए भूमि पर काम करना।",
+      "ejemplo": "वे पत्थर की सीढ़ीनुमा खेतों में आलू और मक्का उगाते थे।"
+    },
+    {
+      "termino": "निर्माण करना",
+      "explicacion": "वह क्रिया जिसका अर्थ है कुछ बनाना या तैयार करना।",
+      "ejemplo": "उन्होंने पहाड़ों में बहुत लंबी सड़कों का निर्माण किया।"
+    },
+    {
+      "termino": "संरक्षण करना",
+      "explicacion": "वह क्रिया जिसका अर्थ है किसी चीज़ या व्यक्ति की रक्षा करना या उसकी देखभाल करना।",
+      "ejemplo": "हमें प्रकृति और पहाड़ों का संरक्षण करना चाहिए।"
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "प्राचीन",
+      "explicacion": "वह विशेषण जो किसी ऐसी वस्तु का वर्णन करता है जिसकी आयु बहुत अधिक है या जो अतीत से संबंधित है।",
+      "ejemplo": "यह एक बहुत प्राचीन शहर है।"
+    },
+    {
+      "termino": "चिकना",
+      "explicacion": "वह विशेषण जो एक समतल और बिना खुरदरापन वाली सतह का वर्णन करता है।",
+      "ejemplo": "यह ठंडा है, लेकिन बहुत चिकना है।"
+    },
+    {
+      "termino": "पवित्र",
+      "explicacion": "वह विशेषण जो किसी ऐसी वस्तु का वर्णन करता है जो धार्मिक श्रद्धा या सम्मान के योग्य है।",
+      "ejemplo": "यहाँ के लोगों के लिए, भूमि पवित्र है।"
+    },
+    {
+      "termino": "उत्कृष्ट",
+      "explicacion": "वह विशेषण जो बहुत उच्च या असाधारण गुणवत्ता को दर्शाता है।",
+      "ejemplo": "मैं सीखता हूँ कि इंका उत्कृष्ट इंजीनियर थे।"
+    },
+    {
+      "termino": "जादुई",
+      "explicacion": "वह विशेषण जो किसी ऐसी वस्तु का वर्णन करता है जिसमें विशेष आकर्षण या शक्ति है।",
+      "ejemplo": "कुस्को एक जादुई शहर है।"
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "राजधानी",
+      "explicacion": "वह संज्ञा जो किसी देश या साम्राज्य के मुख्य शहर को निर्दिष्ट करती है।",
+      "ejemplo": "यह स्थान इंका साम्राज्य की राजधानी था।"
+    },
+    {
+      "termino": "साम्राज्य",
+      "explicacion": "वह संज्ञा जो एक सम्राट द्वारा शासित क्षेत्रों के समूह को निर्दिष्ट करती है।",
+      "ejemplo": "इंका साम्राज्य बहुत विशाल था।"
+    },
+    {
+      "termino": "मंदिर",
+      "explicacion": "वह संज्ञा जो धार्मिक पूजा के लिए समर्पित भवन को निर्दिष्ट करती है।",
+      "ejemplo": "अतीत में, यह स्थान सूर्य मंदिर था।"
+    },
+    {
+      "termino": "इंजीनियर",
+      "explicacion": "वह संज्ञा जो वैज्ञानिक और तकनीकी ज्ञान लागू करने वाले पेशेवरों को निर्दिष्ट करती है।",
+      "ejemplo": "इंका उत्कृष्ट इंजीनियर थे।"
+    },
+    {
+      "termino": "सीढ़ीनुमा खेत",
+      "explicacion": "वह संज्ञा जो खेती के लिए ढलान पर बनी समतल मंचों को निर्दिष्ट करती है।",
+      "ejemplo": "वे... पत्थर के सीढ़ीनुमा खेतों में खेती करते थे।"
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "बादलों में",
+      "explicacion": "वह अभिव्यक्ति जिसका अर्थ है बहुत ऊँचाई पर, बादलों के पास। इस संदर्भ में, माचू पिच्चू के स्थान का वर्णन करती है।",
+      "ejemplo": "यह बादलों में बसा एक शहर है।"
+    },
+    {
+      "termino": "भूख लगना",
+      "explicacion": "वह मुहावरा जिसका अर्थ है खाने की आवश्यकता महसूस करना।",
+      "ejemplo": "मुझे भूख लगी है।"
+    },
+    {
+      "termino": "हमेशा याद रखना",
+      "explicacion": "वह अभिव्यक्ति जो इस बात पर जोर देती है कि कोई अनुभव अविस्मरणीय होगा।",
+      "ejemplo": "यह एक ऐसा अनुभव है जिसे तुम हमेशा याद रखोगे।"
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "स्थानों और वस्तुओं का वर्णन करना",
+      "explicacion": "किसी स्थान या वस्तु की भौतिक विशेषताओं और गुणों के बारे में विवरण देने का कार्य।",
+      "ejemplo": "दीवारें बहुत ऊँची और मजबूत हैं। पत्थर बड़े हैं और बहुत पास-पास हैं।"
+    },
+    {
+      "termino": "अतीत और वर्तमान में व्यक्तिगत अनुभवों का वर्णन करना",
+      "explicacion": "विभिन्न काल में अपने स्वयं के तथ्यों या अनुभवों को बताने का कार्य।",
+      "ejemplo": "आज मैं एक बहुत विशेष स्थान पर हूँ... बहुत साल पहले, यह स्थान राजधानी था..."
+    },
+    {
+      "termino": "भविष्य की इच्छाओं और इरादों को व्यक्त करना",
+      "explicacion": "योजनाओं, इच्छाओं या जो करना चाहते हैं, उसे संप्रेषित करने का कार्य।",
+      "ejemplo": "मैं कल सुबह जाना चाहता हूँ। मुझे बहुत जल्दी एक ट्रेन पकड़नी है।"
+    }
+  ],
+  "palabras_clave": [
+    "कुस्को",
+    "पेरू",
+    "इंका",
+    "सूर्य",
+    "पत्थर",
+    "प्लाजा दे आर्मास",
+    "पर्यटक",
+    "अल्पाका",
+    "कोरिकंचा",
+    "मंदिर",
+    "सोना",
+    "संग्रहालय",
+    "इंजीनियर",
+    "किसान",
+    "माचू पिच्चू",
+    "ट्रेन",
+    "उरुबम्बा",
+    "पचमामा",
+    "पृथ्वी",
+    "कोका की चाय"
+  ],
+  "narrativa": "La Ciudad del Sol\nHola, mi nombre es Mateo. Hoy estoy en un lugar muy especial. Estoy en Cusco, Perú. Esta es una ciudad muy antigua y muy bonita. Hace muchos años, este lugar era la capital del Imperio Inca. El Imperio Inca fue muy grande y muy importante en la historia de América del Sur.\nHoy el clima es perfecto. El sol brilla mucho y el cielo es azul. Yo camino por las calles de piedra. Las paredes son muy altas y fuertes. Las piedras son grandes y están muy juntas. Es increíble porque los incas no usaban cemento. Todo es perfecto. Yo toco una piedra con mi mano. Está fría, pero es muy lisa.\nEn el centro de la ciudad está la Plaza de Armas. Hay muchas personas aquí. Hay turistas de muchos países: Japón, China, Estados Unidos y Francia. También hay personas locales. Ellos usan ropa con muchos colores. La ropa es de lana de alpaca. La alpaca es un animal muy común en las montañas. Es un animal suave y tranquilo.\nYo busco un edificio muy famoso. El edificio se llama Coricancha. En el pasado, este lugar era el Templo del Sol. Para los incas, el sol era un dios. El nombre del dios era Inti. Los incas pensaban que el sol daba vida a las plantas y a las personas. Por eso, el Templo del Sol tenía mucho oro. El oro brilla como el sol.\nAhora, yo entro al museo. Veo objetos de oro y plata. También veo cerámicas con dibujos de animales. Aprendo que los incas eran excelentes ingenieros. Ellos construyeron caminos muy largos en las montañas. También eran buenos agricultores. Ellos cultivaban papas y maíz en terrazas de piedra.\nCerca de Cusco está Machu Picchu. Es una ciudad en las nubes. Yo quiero ir mañana por la mañana. Necesito tomar un tren muy temprano. El viaje en tren es largo, pero el paisaje es hermoso. Hay muchos árboles verdes y un río grande. El río se llama Urubamba.\nEstoy feliz de estar aquí. La historia es muy interesante. Me gusta aprender palabras nuevas. Por ejemplo, aprendo la palabra \"Pachamama\". Significa \"Madre Tierra\". Para las personas aquí, la tierra es sagrada. Debemos cuidar la naturaleza y las montañas.\nEs hora de comer. Tengo hambre. En Cusco la comida es deliciosa. Voy a un restaurante pequeño. Quiero comer una sopa caliente y beber un té de coca. El té de coca es bueno para caminar en las montañas porque la ciudad está muy alta.\nCusco es una ciudad mágica. Tiene mucha cultura y mucha energía. Si tú quieres aprender historia y ver paisajes bonitos, debes visitar este lugar. Es una experiencia que vas a recordar siempre. Mañana mi aventura continúa en las montañas."
+}

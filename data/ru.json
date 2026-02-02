@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "titulo_historia": "Лингвистический анализ",
+    "autor": "Usuario",
+    "fecha": "2026-02-01"
+  },
+  "titulo": "Лингвистический анализ",
+  "conectores_logicos": [
+    {
+      "termino": "Поэтому",
+      "explicacion": "Соединительное слово следствия или результата.",
+      "ejemplo": "Инки считали, что солнце дает жизнь... Поэтому в Храме Солнца было много золота."
+    },
+    {
+      "termino": "Также",
+      "explicacion": "Соединительное слово для добавления или суммирования информации.",
+      "ejemplo": "Здесь много туристов из разных стран... Также есть местные жители."
+    },
+    {
+      "termino": "Например",
+      "explicacion": "Соединительное слово, вводящее пример для иллюстрации идеи.",
+      "ejemplo": "Мне нравится учить новые слова. Например, я выучил слово 'Пачамама'."
+    },
+    {
+      "termino": "Сейчас",
+      "explicacion": "Временной союз, обозначающий изменение во времени или действии.",
+      "ejemplo": "Сейчас я вхожу в музей."
+    },
+    {
+      "termino": "Пора",
+      "explicacion": "Выражение, указывающее, что настало подходящее время для чего-либо.",
+      "ejemplo": "Пора есть."
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "светить",
+      "explicacion": "Глагол, означающий излучать собственный или отраженный свет.",
+      "ejemplo": "Солнце светит ярко, и небо голубое."
+    },
+    {
+      "termino": "ходить",
+      "explicacion": "Глагол, описывающий действие ходьбы или передвижения пешком.",
+      "ejemplo": "Я иду по каменным улицам."
+    },
+    {
+      "termino": "возделывать",
+      "explicacion": "Глагол, означающий обрабатывать землю для производства продуктов питания.",
+      "ejemplo": "Они возделывали картофель и кукурузу на каменных террасах."
+    },
+    {
+      "termino": "строить",
+      "explicacion": "Глагол, означающий возводить или создавать что-либо.",
+      "ejemplo": "Они построили очень длинные дороги в горах."
+    },
+    {
+      "termino": "заботиться",
+      "explicacion": "Глагол, означающий защищать или оберегать что-либо или кого-либо.",
+      "ejemplo": "Мы должны заботиться о природе и горах."
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "древний",
+      "explicacion": "Прилагательное, описывающее что-либо очень старое или относящееся к прошлому.",
+      "ejemplo": "Это очень древний город."
+    },
+    {
+      "termino": "гладкий",
+      "explicacion": "Прилагательное, описывающее гладкую поверхность без шероховатостей.",
+      "ejemplo": "Она холодная, но очень гладкая."
+    },
+    {
+      "termino": "священный",
+      "explicacion": "Прилагательное, описывающее что-либо достойное религиозного почитания или уважения.",
+      "ejemplo": "Для людей здесь земля священна."
+    },
+    {
+      "termino": "отличные",
+      "explicacion": "Прилагательное, указывающее на очень высокое или выдающееся качество.",
+      "ejemplo": "Я узнаю, что инки были отличными инженерами."
+    },
+    {
+      "termino": "волшебный",
+      "explicacion": "Прилагательное, описывающее что-либо, обладающее особым очарованием или силой.",
+      "ejemplo": "Куско — волшебный город."
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "столица",
+      "explicacion": "Существительное, обозначающее главный город страны или империи.",
+      "ejemplo": "Это место было столицей Империи Инков."
+    },
+    {
+      "termino": "империя",
+      "explicacion": "Существительное, обозначающее совокупность территорий, управляемых императором.",
+      "ejemplo": "Империя Инков была очень большой."
+    },
+    {
+      "termino": "храм",
+      "explicacion": "Существительное, обозначающее здание, предназначенное для религиозного культа.",
+      "ejemplo": "В прошлом это место было Храмом Солнца."
+    },
+    {
+      "termino": "инженеры",
+      "explicacion": "Существительное, обозначающее профессионалов, применяющих научные и технические знания.",
+      "ejemplo": "Инки были отличными инженерами."
+    },
+    {
+      "termino": "террасы",
+      "explicacion": "Существительное, обозначающее плоские платформы, построенные на склоне для земледелия.",
+      "ejemplo": "Они возделывали... на каменных террасах."
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "в облаках",
+      "explicacion": "Выражение, означающее на большой высоте, близко к облакам. В данном контексте описывает расположение Мачу-Пикчу.",
+      "ejemplo": "Это город в облаках."
+    },
+    {
+      "termino": "быть голодным",
+      "explicacion": "Идиоматическое выражение, означающее испытывать потребность в еде.",
+      "ejemplo": "Я голоден."
+    },
+    {
+      "termino": "помнить всегда",
+      "explicacion": "Выражение, подчеркивающее, что опыт будет незабываемым.",
+      "ejemplo": "Это опыт, который ты будешь помнить всегда."
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "Описание мест и объектов",
+      "explicacion": "Функция для предоставления деталей о физических характеристиках и качествах места или предмета.",
+      "ejemplo": "Стены очень высокие и крепкие. Камни большие и очень плотно пригнаны."
+    },
+    {
+      "termino": "Повествование о личном опыте в прошлом и настоящем",
+      "explicacion": "Функция для рассказа о собственных событиях или переживаниях в разных временах.",
+      "ejemplo": "Сегодня я в очень особенном месте... Много лет назад это место было столицей..."
+    },
+    {
+      "termino": "Выражение желаний и намерений на будущее",
+      "explicacion": "Функция для сообщения планов, желаний или того, что хочется сделать.",
+      "ejemplo": "Я хочу поехать завтра утром. Мне нужно сесть на очень ранний поезд."
+    }
+  ],
+  "palabras_clave": [
+    "Куско",
+    "Перу",
+    "Инка",
+    "солнце",
+    "камень",
+    "Пласа-де-Армас",
+    "туристы",
+    "альпака",
+    "Кориканча",
+    "храм",
+    "золото",
+    "музей",
+    "инженеры",
+    "земледельцы",
+    "Мачу-Пикчу",
+    "поезд",
+    "Урубамба",
+    "Пачамама",
+    "земля",
+    "чай из коки"
+  ],
+  "narrativa": "La Ciudad del Sol\nHola, mi nombre es Mateo. Hoy estoy en un lugar muy especial. Estoy en Cusco, Perú. Esta es una ciudad muy antigua y muy bonita. Hace muchos años, este lugar era la capital del Imperio Inca. El Imperio Inca fue muy grande y muy importante en la historia de América del Sur.\nHoy el clima es perfecto. El sol brilla mucho y el cielo es azul. Yo camino por las calles de piedra. Las paredes son muy altas y fuertes. Las piedras son grandes y están muy juntas. Es increíble porque los incas no usaban cemento. Todo es perfecto. Yo toco una piedra con mi mano. Está fría, pero es muy lisa.\nEn el centro de la ciudad está la Plaza de Armas. Hay muchas personas aquí. Hay turistas de muchos países: Japón, China, Estados Unidos y Francia. También hay personas locales. Ellos usan ropa con muchos colores. La ropa es de lana de alpaca. La alpaca es un animal muy común en las montañas. Es un animal suave y tranquilo.\nYo busco un edificio muy famoso. El edificio se llama Coricancha. En el pasado, este lugar era el Templo del Sol. Para los incas, el sol era un dios. El nombre del dios era Inti. Los incas pensaban que el sol daba vida a las plantas y a las personas. Por eso, el Templo del Sol tenía mucho oro. El oro brilla como el sol.\nAhora, yo entro al museo. Veo objetos de oro y plata. También veo cerámicas con dibujos de animales. Aprendo que los incas eran excelentes ingenieros. Ellos construyeron caminos muy largos en las montañas. También eran buenos agricultores. Ellos cultivaban papas y maíz en terrazas de piedra.\nCerca de Cusco está Machu Picchu. Es una ciudad en las nubes. Yo quiero ir mañana por la mañana. Necesito tomar un tren muy temprano. El viaje en tren es largo, pero el paisaje es hermoso. Hay muchos árboles verdes y un río grande. El río se llama Urubamba.\nEstoy feliz de estar aquí. La historia es muy interesante. Me gusta aprender palabras nuevas. Por ejemplo, aprendo la palabra \"Pachamama\". Significa \"Madre Tierra\". Para las personas aquí, la tierra es sagrada. Debemos cuidar la naturaleza y las montañas.\nEs hora de comer. Tengo hambre. En Cusco la comida es deliciosa. Voy a un restaurante pequeño. Quiero comer una sopa caliente y beber un té de coca. El té de coca es bueno para caminar en las montañas porque la ciudad está muy alta.\nCusco es una ciudad mágica. Tiene mucha cultura y mucha energía. Si tú quieres aprender historia y ver paisajes bonitos, debes visitar este lugar. Es una experiencia que vas a recordar siempre. Mañana mi aventura continúa en las montañas."
+}

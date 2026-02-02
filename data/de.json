@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "titulo_historia": "Sprachliche Analyse",
+    "autor": "Usuario",
+    "fecha": "2026-02-01"
+  },
+  "titulo": "Sprachliche Analyse",
+  "conectores_logicos": [
+    {
+      "termino": "Deshalb",
+      "explicacion": "Konjunktion für Folge oder Ergebnis.",
+      "ejemplo": "Die Inka dachten, die Sonne gäbe Leben... Deshalb hatte der Sonnentempel viel Gold."
+    },
+    {
+      "termino": "Auch",
+      "explicacion": "Konjunktion zur Hinzufügung oder Ergänzung von Informationen.",
+      "ejemplo": "Es gibt Touristen aus vielen Ländern... Auch gibt es einheimische Personen."
+    },
+    {
+      "termino": "Zum Beispiel",
+      "explicacion": "Konjunktion, die ein Beispiel zur Veranschaulichung einer Idee einführt.",
+      "ejemplo": "Ich lerne gerne neue Wörter. Zum Beispiel lerne ich das Wort 'Pachamama'."
+    },
+    {
+      "termino": "Jetzt",
+      "explicacion": "Zeitliche Konjunktion, die einen Wechsel in der Zeit oder Handlung markiert.",
+      "ejemplo": "Jetzt betrete ich das Museum."
+    },
+    {
+      "termino": "Es ist Zeit für",
+      "explicacion": "Ausdruck, der anzeigt, dass der richtige Zeitpunkt für etwas gekommen ist.",
+      "ejemplo": "Es ist Zeit für das Essen."
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "scheinen",
+      "explicacion": "Verb, das angibt, eigenes oder reflektiertes Licht auszusenden.",
+      "ejemplo": "Die Sonne scheint sehr stark und der Himmel ist blau."
+    },
+    {
+      "termino": "gehen",
+      "explicacion": "Verb, das die Handlung des Gehens oder Fortbewegens zu Fuß beschreibt.",
+      "ejemplo": "Ich gehe durch die steinernen Straßen."
+    },
+    {
+      "termino": "anbauen",
+      "explicacion": "Verb, das bedeutet, das Land zu bearbeiten, um Nahrungsmittel zu produzieren.",
+      "ejemplo": "Sie bauten Kartoffeln und Mais auf steinernen Terrassen an."
+    },
+    {
+      "termino": "bauen",
+      "explicacion": "Verb, das bedeutet, etwas zu errichten oder herzustellen.",
+      "ejemplo": "Sie bauten sehr lange Wege in den Bergen."
+    },
+    {
+      "termino": "schützen",
+      "explicacion": "Verb, das bedeutet, etwas oder jemanden zu beschützen oder zu behüten.",
+      "ejemplo": "Wir müssen die Natur und die Berge schützen."
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "alt",
+      "explicacion": "Adjektiv, das etwas beschreibt, das sehr alt ist oder aus der Vergangenheit stammt.",
+      "ejemplo": "Dies ist eine sehr alte Stadt."
+    },
+    {
+      "termino": "glatt",
+      "explicacion": "Adjektiv, das eine glatte, raue Oberfläche beschreibt.",
+      "ejemplo": "Sie ist kalt, aber sehr glatt."
+    },
+    {
+      "termino": "heilig",
+      "explicacion": "Adjektiv, das etwas beschreibt, das religiöser Verehrung oder Respekt würdig ist.",
+      "ejemplo": "Für die Menschen hier ist die Erde heilig."
+    },
+    {
+      "termino": "ausgezeichnet",
+      "explicacion": "Adjektiv, das eine sehr hohe oder herausragende Qualität anzeigt.",
+      "ejemplo": "Ich lerne, dass die Inka ausgezeichnete Ingenieure waren."
+    },
+    {
+      "termino": "magisch",
+      "explicacion": "Adjektiv, das etwas beschreibt, das einen besonderen Zauber oder eine besondere Kraft hat.",
+      "ejemplo": "Cusco ist eine magische Stadt."
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "Hauptstadt",
+      "explicacion": "Substantiv, das die wichtigste Stadt eines Landes oder Reiches bezeichnet.",
+      "ejemplo": "Dieser Ort war die Hauptstadt des Inka-Reiches."
+    },
+    {
+      "termino": "Reich",
+      "explicacion": "Substantiv, das ein von einem Kaiser regiertes Gebiet bezeichnet.",
+      "ejemplo": "Das Inka-Reich war sehr groß."
+    },
+    {
+      "termino": "Tempel",
+      "explicacion": "Substantiv, das ein Gebäude bezeichnet, das dem religiösen Kult gewidmet ist.",
+      "ejemplo": "In der Vergangenheit war dieser Ort der Sonnentempel."
+    },
+    {
+      "termino": "Ingenieure",
+      "explicacion": "Substantiv, das Fachleute bezeichnet, die wissenschaftliche und technische Kenntnisse anwenden.",
+      "ejemplo": "Die Inka waren ausgezeichnete Ingenieure."
+    },
+    {
+      "termino": "Terrassen",
+      "explicacion": "Substantiv, das ebene Plattformen bezeichnet, die an einem Berghang zum Anbau errichtet wurden.",
+      "ejemplo": "Sie bauten... auf steinernen Terrassen an."
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "in den Wolken",
+      "explicacion": "Ausdruck, der bedeutet, in großer Höhe, nahe den Wolken. In diesem Kontext beschreibt er die Lage von Machu Picchu.",
+      "ejemplo": "Es ist eine Stadt in den Wolken."
+    },
+    {
+      "termino": "Hunger haben",
+      "explicacion": "Idiomatischer Ausdruck, der bedeutet, das Bedürfnis zu essen zu verspüren.",
+      "ejemplo": "Ich habe Hunger."
+    },
+    {
+      "termino": "für immer in Erinnerung behalten",
+      "explicacion": "Ausdruck, der betont, dass eine Erfahrung unvergesslich sein wird.",
+      "ejemplo": "Es ist eine Erfahrung, die du für immer in Erinnerung behalten wirst."
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "Orte und Objekte beschreiben",
+      "explicacion": "Funktion, um Details über physische Merkmale und Eigenschaften eines Ortes oder einer Sache zu geben.",
+      "ejemplo": "Die Mauern sind sehr hoch und stark. Die Steine sind groß und liegen sehr eng beieinander."
+    },
+    {
+      "termino": "Persönliche Erfahrungen in Vergangenheit und Gegenwart erzählen",
+      "explicacion": "Funktion, um eigene Ereignisse oder Erlebnisse in verschiedenen Zeitformen zu erzählen.",
+      "ejemplo": "Heute bin ich an einem ganz besonderen Ort... Vor vielen Jahren war dieser Ort die Hauptstadt..."
+    },
+    {
+      "termino": "Wünsche und zukünftige Absichten ausdrücken",
+      "explicacion": "Funktion, um Pläne, Wünsche oder das, was man tun möchte, zu kommunizieren.",
+      "ejemplo": "Ich möchte morgen früh gehen. Ich muss sehr früh einen Zug nehmen."
+    }
+  ],
+  "palabras_clave": [
+    "Cusco",
+    "Peru",
+    "Inka",
+    "Sonne",
+    "Stein",
+    "Plaza de Armas",
+    "Touristen",
+    "Alpaka",
+    "Coricancha",
+    "Tempel",
+    "Gold",
+    "Museum",
+    "Ingenieure",
+    "Bauern",
+    "Machu Picchu",
+    "Zug",
+    "Urubamba",
+    "Pachamama",
+    "Erde",
+    "Coca-Tee"
+  ],
+  "narrativa": "La Ciudad del Sol\nHola, mi nombre es Mateo. Hoy estoy en un lugar muy especial. Estoy en Cusco, Perú. Esta es una ciudad muy antigua y muy bonita. Hace muchos años, este lugar era la capital del Imperio Inca. El Imperio Inca fue muy grande y muy importante en la historia de América del Sur.\nHoy el clima es perfecto. El sol brilla mucho y el cielo es azul. Yo camino por las calles de piedra. Las paredes son muy altas y fuertes. Las piedras son grandes y están muy juntas. Es increíble porque los incas no usaban cemento. Todo es perfecto. Yo toco una piedra con mi mano. Está fría, pero es muy lisa.\nEn el centro de la ciudad está la Plaza de Armas. Hay muchas personas aquí. Hay turistas de muchos países: Japón, China, Estados Unidos y Francia. También hay personas locales. Ellos usan ropa con muchos colores. La ropa es de lana de alpaca. La alpaca es un animal muy común en las montañas. Es un animal suave y tranquilo.\nYo busco un edificio muy famoso. El edificio se llama Coricancha. En el pasado, este lugar era el Templo del Sol. Para los incas, el sol era un dios. El nombre del dios era Inti. Los incas pensaban que el sol daba vida a las plantas y a las personas. Por eso, el Templo del Sol tenía mucho oro. El oro brilla como el sol.\nAhora, yo entro al museo. Veo objetos de oro y plata. También veo cerámicas con dibujos de animales. Aprendo que los incas eran excelentes ingenieros. Ellos construyeron caminos muy largos en las montañas. También eran buenos agricultores. Ellos cultivaban papas y maíz en terrazas de piedra.\nCerca de Cusco está Machu Picchu. Es una ciudad en las nubes. Yo quiero ir mañana por la mañana. Necesito tomar un tren muy temprano. El viaje en tren es largo, pero el paisaje es hermoso. Hay muchos árboles verdes y un río grande. El río se llama Urubamba.\nEstoy feliz de estar aquí. La historia es muy interesante. Me gusta aprender palabras nuevas. Por ejemplo, aprendo la palabra \"Pachamama\". Significa \"Madre Tierra\". Para las personas aquí, la tierra es sagrada. Debemos cuidar la naturaleza y las montañas.\nEs hora de comer. Tengo hambre. En Cusco la comida es deliciosa. Voy a un restaurante pequeño. Quiero comer una sopa caliente y beber un té de coca. El té de coca es bueno para caminar en las montañas porque la ciudad está muy alta.\nCusco es una ciudad mágica. Tiene mucha cultura y mucha energía. Si tú quieres aprender historia y ver paisajes bonitos, debes visitar este lugar. Es una experiencia que vas a recordar siempre. Mañana mi aventura continúa en las montañas."
+}

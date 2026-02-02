@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "titulo_historia": "تحليل لغوي",
+    "autor": "Usuario",
+    "fecha": "2026-02-01"
+  },
+  "titulo": "تحليل لغوي",
+  "conectores_logicos": [
+    {
+      "termino": "لذلك",
+      "explicacion": "أداة ربط تدل على النتيجة أو العاقبة.",
+      "ejemplo": "كان الإنكا يعتقدون أن الشمس تمنح الحياة... لذلك، كان معبد الشمس يحتوي على الكثير من الذهب."
+    },
+    {
+      "termino": "أيضاً",
+      "explicacion": "أداة ربط تدل على الإضافة أو جمع المعلومات.",
+      "ejemplo": "هناك سياح من دول كثيرة... أيضاً هناك أشخاص محليون."
+    },
+    {
+      "termino": "على سبيل المثال",
+      "explicacion": "أداة ربط تقدم مثالاً لتوضيح فكرة.",
+      "ejemplo": "أحب تعلم كلمات جديدة. على سبيل المثال، أتعلم كلمة 'باتشاماما'."
+    },
+    {
+      "termino": "الآن",
+      "explicacion": "أداة ربط زمنية تشير إلى تغيير في الزمن أو الفعل.",
+      "ejemplo": "الآن، أدخل إلى المتحف."
+    },
+    {
+      "termino": "حان وقت",
+      "explicacion": "تعبير يشير إلى أن الوقت المناسب قد حان لفعل شيء ما.",
+      "ejemplo": "حان وقت الأكل."
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "يُشِعّ",
+      "explicacion": "فعل يدل على إصدار ضوء ذاتي أو منعكس.",
+      "ejemplo": "الشمس تُشِعّ كثيراً والسماء زرقاء."
+    },
+    {
+      "termino": "يَمْشِي",
+      "explicacion": "فعل يصف فعل السير أو التحرك على الأقدام.",
+      "ejemplo": "أنا أمشي في شوارع الحجر."
+    },
+    {
+      "termino": "يَزْرَع",
+      "explicacion": "فعل يعني العمل على الأرض لإنتاج الغذاء.",
+      "ejemplo": "كانوا يزرعون البطاطس والذرة في مصاطب حجرية."
+    },
+    {
+      "termino": "يَبْنِي",
+      "explicacion": "فعل يعني تشييد أو صنع شيء ما.",
+      "ejemplo": "بنوا طرقاً طويلة جداً في الجبال."
+    },
+    {
+      "termino": "يَعْتَني بِ",
+      "explicacion": "فعل يعني حماية شيء ما أو الاهتمام به أو بشخص ما.",
+      "ejemplo": "يجب أن نعتني بالطبيعة والجبال."
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "قَديم",
+      "explicacion": "صفة تصف شيئاً له عمر طويل أو ينتمي إلى الماضي.",
+      "ejemplo": "هذه مدينة قديمة جداً."
+    },
+    {
+      "termino": "ناعِم",
+      "explicacion": "صفة تصف سطحاً أملساً وخالياً من الخشونة.",
+      "ejemplo": "إنها باردة، لكنها ناعمة جداً."
+    },
+    {
+      "termino": "مُقَدَّس",
+      "explicacion": "صفة تصف شيئاً جديراً بالتقديس أو الاحترام الديني.",
+      "ejemplo": "بالنسبة للناس هنا، الأرض مقدسة."
+    },
+    {
+      "termino": "مُمْتاز",
+      "explicacion": "صفة تشير إلى جودة عالية جداً أو متفوقة.",
+      "ejemplo": "أتعلم أن الإنكا كانوا مهندسين ممتازين."
+    },
+    {
+      "termino": "سِحْرِيّ",
+      "explicacion": "صفة تصف شيئاً له سحر أو قوة خاصة.",
+      "ejemplo": "كوسكو مدينة سحرية."
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "عاصِمة",
+      "explicacion": "اسم يدل على المدينة الرئيسية لدولة أو إمبراطورية.",
+      "ejemplo": "كان هذا المكان عاصمة إمبراطورية الإنكا."
+    },
+    {
+      "termino": "إمْبِراطورِيَّة",
+      "explicacion": "اسم يدل على مجموعة من الأراضي يحكمها إمبراطور.",
+      "ejemplo": "كانت إمبراطورية الإنكا كبيرة جداً."
+    },
+    {
+      "termino": "مَعْبَد",
+      "explicacion": "اسم يدل على مبنى مخصص للعبادة الدينية.",
+      "ejemplo": "في الماضي، كان هذا المكان معبد الشمس."
+    },
+    {
+      "termino": "مُهَنْدِسُون",
+      "explicacion": "اسم يدل على محترفين يطبقون المعارف العلمية والتقنية.",
+      "ejemplo": "كان الإنكا مهندسين ممتازين."
+    },
+    {
+      "termino": "مَصاطِب",
+      "explicacion": "اسم يدل على منصات مسطحة مبنية على منحدر للزراعة.",
+      "ejemplo": "كانوا يزرعون... في مصاطب حجرية."
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "بَيْنَ السَّحاب",
+      "explicacion": "تعبير يعني على ارتفاع كبير، قريب من السحاب. في هذا السياق، يصف موقع ماتشو بيتشو.",
+      "ejemplo": "إنها مدينة بين السحاب."
+    },
+    {
+      "termino": "يَجُوع",
+      "explicacion": "تعبير اصطلاحي يعني الشعور بالحاجة إلى الأكل.",
+      "ejemplo": "أنا جائع."
+    },
+    {
+      "termino": "يَتَذَكَّر دائِماً",
+      "explicacion": "تعبير يؤكد أن التجربة ستكون لا تُنسى.",
+      "ejemplo": "إنها تجربة ستتذكرها دائماً."
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "وصف الأماكن والأشياء",
+      "explicacion": "وظيفة لإعطاء تفاصيل عن الخصائص الفيزيائية والصفات لمكان أو شيء.",
+      "ejemplo": "الجدران عالية جداً وقوية. الحجارة كبيرة ومتقاربة جداً."
+    },
+    {
+      "termino": "سرد التجارب الشخصية في الماضي والحاضر",
+      "explicacion": "وظيفة لرواية وقائع أو تجارب شخصية في أزمنة فعل مختلفة.",
+      "ejemplo": "اليوم أنا في مكان خاص جداً... منذ سنوات عديدة، كان هذا المكان العاصمة..."
+    },
+    {
+      "termino": "التعبير عن الرغبات والنوايا المستقبلية",
+      "explicacion": "وظيفة للتعبير عن الخطط أو الرغبات أو ما يرغب المرء في فعله.",
+      "ejemplo": "أريد أن أذهب غداً في الصباح. أحتاج إلى ركوب قطار مبكر جداً."
+    }
+  ],
+  "palabras_clave": [
+    "كوسكو",
+    "بيرو",
+    "إنكا",
+    "شمس",
+    "حجر",
+    "ساحة الأسلحة",
+    "سياح",
+    "ألبكة",
+    "كوريكانشا",
+    "معبد",
+    "ذهب",
+    "متحف",
+    "مهندسون",
+    "مزارعون",
+    "ماتشو بيتشو",
+    "قطار",
+    "أوروبامبا",
+    "باتشاماما",
+    "أرض",
+    "شاي الكوكا"
+  ],
+  "narrativa": "La Ciudad del Sol\nHola, mi nombre es Mateo. Hoy estoy en un lugar muy especial. Estoy en Cusco, Perú. Esta es una ciudad muy antigua y muy bonita. Hace muchos años, este lugar era la capital del Imperio Inca. El Imperio Inca fue muy grande y muy importante en la historia de América del Sur.\nHoy el clima es perfecto. El sol brilla mucho y el cielo es azul. Yo camino por las calles de piedra. Las paredes son muy altas y fuertes. Las piedras son grandes y están muy juntas. Es increíble porque los incas no usaban cemento. Todo es perfecto. Yo toco una piedra con mi mano. Está fría, pero es muy lisa.\nEn el centro de la ciudad está la Plaza de Armas. Hay muchas personas aquí. Hay turistas de muchos países: Japón, China, Estados Unidos y Francia. También hay personas locales. Ellos usan ropa con muchos colores. La ropa es de lana de alpaca. La alpaca es un animal muy común en las montañas. Es un animal suave y tranquilo.\nYo busco un edificio muy famoso. El edificio se llama Coricancha. En el pasado, este lugar era el Templo del Sol. Para los incas, el sol era un dios. El nombre del dios era Inti. Los incas pensaban que el sol daba vida a las plantas y a las personas. Por eso, el Templo del Sol tenía mucho oro. El oro brilla como el sol.\nAhora, yo entro al museo. Veo objetos de oro y plata. También veo cerámicas con dibujos de animales. Aprendo que los incas eran excelentes ingenieros. Ellos construyeron caminos muy largos en las montañas. También eran buenos agricultores. Ellos cultivaban papas y maíz en terrazas de piedra.\nCerca de Cusco está Machu Picchu. Es una ciudad en las nubes. Yo quiero ir mañana por la mañana. Necesito tomar un tren muy temprano. El viaje en tren es largo, pero el paisaje es hermoso. Hay muchos árboles verdes y un río grande. El río se llama Urubamba.\nEstoy feliz de estar aquí. La historia es muy interesante. Me gusta aprender palabras nuevas. Por ejemplo, aprendo la palabra \"Pachamama\". Significa \"Madre Tierra\". Para las personas aquí, la tierra es sagrada. Debemos cuidar la naturaleza y las montañas.\nEs hora de comer. Tengo hambre. En Cusco la comida es deliciosa. Voy a un restaurante pequeño. Quiero comer una sopa caliente y beber un té de coca. El té de coca es bueno para caminar en las montañas porque la ciudad está muy alta.\nCusco es una ciudad mágica. Tiene mucha cultura y mucha energía. Si tú quieres aprender historia y ver paisajes bonitos, debes visitar este lugar. Es una experiencia que vas a recordar siempre. Mañana mi aventura continúa en las montañas."
+}

@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "titulo_historia": "语言分析",
+    "autor": "Usuario",
+    "fecha": "2026-02-01"
+  },
+  "titulo": "语言分析",
+  "conectores_logicos": [
+    {
+      "termino": "因此",
+      "explicacion": "表示结果或后果的连接词。",
+      "ejemplo": "印加人认为太阳赋予生命……因此，太阳神庙有很多黄金。"
+    },
+    {
+      "termino": "也",
+      "explicacion": "表示添加或补充信息的连接词。",
+      "ejemplo": "有很多来自不同国家的游客……也有当地人。"
+    },
+    {
+      "termino": "例如",
+      "explicacion": "用于引出例子以说明某个观点的连接词。",
+      "ejemplo": "我喜欢学习新单词。例如，我学习了'Pachamama'这个词。"
+    },
+    {
+      "termino": "现在",
+      "explicacion": "表示时间或行动变化的连接词。",
+      "ejemplo": "现在，我进入博物馆。"
+    },
+    {
+      "termino": "是时候",
+      "explicacion": "表示做某事的适当时机的表达。",
+      "ejemplo": "是时候吃饭了。"
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "闪耀",
+      "explicacion": "表示自身发光或反射光线的动词。",
+      "ejemplo": "阳光灿烂，天空湛蓝。"
+    },
+    {
+      "termino": "行走",
+      "explicacion": "描述步行或徒步移动动作的动词。",
+      "ejemplo": "我走在石头街道上。"
+    },
+    {
+      "termino": "耕种",
+      "explicacion": "意为耕作土地以生产食物的动词。",
+      "ejemplo": "他们在石头梯田上种植土豆和玉米。"
+    },
+    {
+      "termino": "建造",
+      "explicacion": "意为建造或制造某物的动词。",
+      "ejemplo": "他们在山中修建了很长的道路。"
+    },
+    {
+      "termino": "照顾",
+      "explicacion": "意为保护或照看某物或某人的动词。",
+      "ejemplo": "我们必须照顾自然和山脉。"
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "古老的",
+      "explicacion": "描述某物年代久远或属于过去的形容词。",
+      "ejemplo": "这是一座非常古老的城市。"
+    },
+    {
+      "termino": "光滑的",
+      "explicacion": "描述表面平滑、没有粗糙感的形容词。",
+      "ejemplo": "它很凉，但非常光滑。"
+    },
+    {
+      "termino": "神圣的",
+      "explicacion": "描述值得宗教崇敬或尊重之物的形容词。",
+      "ejemplo": "对这里的人们来说，土地是神圣的。"
+    },
+    {
+      "termino": "卓越的",
+      "explicacion": "表示质量非常优越或杰出的形容词。",
+      "ejemplo": "我了解到印加人是卓越的工程师。"
+    },
+    {
+      "termino": "神奇的",
+      "explicacion": "描述具有特殊魅力或力量之物的形容词。",
+      "ejemplo": "库斯科是一座神奇的城市。"
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "首都",
+      "explicacion": "指一个国家或帝国的主要城市的名词。",
+      "ejemplo": "这个地方曾是印加帝国的首都。"
+    },
+    {
+      "termino": "帝国",
+      "explicacion": "指由皇帝统治的领土集合的名词。",
+      "ejemplo": "印加帝国非常庞大。"
+    },
+    {
+      "termino": "神庙",
+      "explicacion": "指用于宗教崇拜的建筑物的名词。",
+      "ejemplo": "在过去，这个地方是太阳神庙。"
+    },
+    {
+      "termino": "工程师",
+      "explicacion": "指应用科学和技术知识的专业人士的名词。",
+      "ejemplo": "印加人是卓越的工程师。"
+    },
+    {
+      "termino": "梯田",
+      "explicacion": "指在山坡上建造的用于耕种的平坦平台的名词。",
+      "ejemplo": "他们在……石头梯田上耕种。"
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "在云端",
+      "explicacion": "意为在很高的地方，靠近云朵。在此上下文中，描述马丘比丘的位置。",
+      "ejemplo": "它是一座云端之城。"
+    },
+    {
+      "termino": "饿了",
+      "explicacion": "意为感到需要进食的习惯用语。",
+      "ejemplo": "我饿了。"
+    },
+    {
+      "termino": "永远铭记",
+      "explicacion": "强调某次经历将令人难忘的表达。",
+      "ejemplo": "这是一次你将永远铭记的经历。"
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "描述地点和物体",
+      "explicacion": "用于提供关于地点或事物物理特征和细节的功能。",
+      "ejemplo": "墙壁非常高且坚固。石头很大，并且紧密地贴合在一起。"
+    },
+    {
+      "termino": "叙述过去和现在的个人经历",
+      "explicacion": "用于用不同时态讲述自身事实或经历的功能。",
+      "ejemplo": "今天我在一个非常特别的地方……很多年前，这个地方是首都……"
+    },
+    {
+      "termino": "表达未来的愿望和意图",
+      "explicacion": "用于交流计划、愿望或想要做什么的功能。",
+      "ejemplo": "我想明天早上去。我需要很早乘坐火车。"
+    }
+  ],
+  "palabras_clave": [
+    "库斯科",
+    "秘鲁",
+    "印加",
+    "太阳",
+    "石头",
+    "武器广场",
+    "游客",
+    "羊驼",
+    "科里坎查",
+    "神庙",
+    "黄金",
+    "博物馆",
+    "工程师",
+    "农民",
+    "马丘比丘",
+    "火车",
+    "乌鲁班巴河",
+    "帕查玛玛",
+    "土地",
+    "古柯茶"
+  ],
+  "narrativa": "La Ciudad del Sol\nHola, mi nombre es Mateo. Hoy estoy en un lugar muy especial. Estoy en Cusco, Perú. Esta es una ciudad muy antigua y muy bonita. Hace muchos años, este lugar era la capital del Imperio Inca. El Imperio Inca fue muy grande y muy importante en la historia de América del Sur.\nHoy el clima es perfecto. El sol brilla mucho y el cielo es azul. Yo camino por las calles de piedra. Las paredes son muy altas y fuertes. Las piedras son grandes y están muy juntas. Es increíble porque los incas no usaban cemento. Todo es perfecto. Yo toco una piedra con mi mano. Está fría, pero es muy lisa.\nEn el centro de la ciudad está la Plaza de Armas. Hay muchas personas aquí. Hay turistas de muchos países: Japón, China, Estados Unidos y Francia. También hay personas locales. Ellos usan ropa con muchos colores. La ropa es de lana de alpaca. La alpaca es un animal muy común en las montañas. Es un animal suave y tranquilo.\nYo busco un edificio muy famoso. El edificio se llama Coricancha. En el pasado, este lugar era el Templo del Sol. Para los incas, el sol era un dios. El nombre del dios era Inti. Los incas pensaban que el sol daba vida a las plantas y a las personas. Por eso, el Templo del Sol tenía mucho oro. El oro brilla como el sol.\nAhora, yo entro al museo. Veo objetos de oro y plata. También veo cerámicas con dibujos de animales. Aprendo que los incas eran excelentes ingenieros. Ellos construyeron caminos muy largos en las montañas. También eran buenos agricultores. Ellos cultivaban papas y maíz en terrazas de piedra.\nCerca de Cusco está Machu Picchu. Es una ciudad en las nubes. Yo quiero ir mañana por la mañana. Necesito tomar un tren muy temprano. El viaje en tren es largo, pero el paisaje es hermoso. Hay muchos árboles verdes y un río grande. El río se llama Urubamba.\nEstoy feliz de estar aquí. La historia es muy interesante. Me gusta aprender palabras nuevas. Por ejemplo, aprendo la palabra \"Pachamama\". Significa \"Madre Tierra\". Para las personas aquí, la tierra es sagrada. Debemos cuidar la naturaleza y las montañas.\nEs hora de comer. Tengo hambre. En Cusco la comida es deliciosa. Voy a un restaurante pequeño. Quiero comer una sopa caliente y beber un té de coca. El té de coca es bueno para caminar en las montañas porque la ciudad está muy alta.\nCusco es una ciudad mágica. Tiene mucha cultura y mucha energía. Si tú quieres aprender historia y ver paisajes bonitos, debes visitar este lugar. Es una experiencia que vas a recordar siempre. Mañana mi aventura continúa en las montañas."
+}

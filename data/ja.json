@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "titulo_historia": "言語分析",
+    "autor": "Usuario",
+    "fecha": "2026-02-01"
+  },
+  "titulo": "言語分析",
+  "conectores_logicos": [
+    {
+      "termino": "だから",
+      "explicacion": "結果や帰結を表す接続詞。",
+      "ejemplo": "インカの人々は太陽が命を与えると考えていました…だから、太陽の神殿にはたくさんの金がありました。"
+    },
+    {
+      "termino": "また",
+      "explicacion": "情報を追加または合算する接続詞。",
+      "ejemplo": "多くの国から観光客が来ています…また、地元の人々もいます。"
+    },
+    {
+      "termino": "例えば",
+      "explicacion": "考えを説明するための例を導入する接続詞。",
+      "ejemplo": "私は新しい単語を学ぶのが好きです。例えば、『パチャママ』という言葉を学びます。"
+    },
+    {
+      "termino": "今",
+      "explicacion": "時間や行動の変化を示す時間的接続詞。",
+      "ejemplo": "今、私は博物館に入ります。"
+    },
+    {
+      "termino": "～する時間です",
+      "explicacion": "何かをするのに適切な時であることを示す表現。",
+      "ejemplo": "食事をする時間です。"
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "輝く",
+      "explicacion": "自ら光を放つ、または反射することを示す動詞。",
+      "ejemplo": "太陽がとても輝き、空は青いです。"
+    },
+    {
+      "termino": "歩く",
+      "explicacion": "歩く、または徒歩で移動する動作を表す動詞。",
+      "ejemplo": "私は石畳の道を歩きます。"
+    },
+    {
+      "termino": "栽培する",
+      "explicacion": "食料を生産するために土地を耕すことを意味する動詞。",
+      "ejemplo": "彼らは石の段々畑でジャガイモやトウモロコシを栽培していました。"
+    },
+    {
+      "termino": "建設する",
+      "explicacion": "何かを建てる、または製造することを意味する動詞。",
+      "ejemplo": "彼らは山の中に非常に長い道を建設しました。"
+    },
+    {
+      "termino": "守る",
+      "explicacion": "何かまたは誰かを保護したり気を配ったりすることを意味する動詞。",
+      "ejemplo": "私たちは自然と山々を守らなければなりません。"
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "古代の",
+      "explicacion": "非常に古い、または過去に属するものを表す形容詞。",
+      "ejemplo": "これはとても古代の都市です。"
+    },
+    {
+      "termino": "滑らかな",
+      "explicacion": "表面が滑らかで凹凸がないことを表す形容詞。",
+      "ejemplo": "それは冷たいですが、とても滑らかです。"
+    },
+    {
+      "termino": "神聖な",
+      "explicacion": "宗教的な崇拝や敬意に値するものを表す形容詞。",
+      "ejemplo": "ここの人々にとって、大地は神聖なものです。"
+    },
+    {
+      "termino": "卓越した",
+      "explicacion": "非常に優れた、または傑出した品質を示す形容詞。",
+      "ejemplo": "インカの人々が卓越した技術者であったことを学びます。"
+    },
+    {
+      "termino": "魔法のような",
+      "explicacion": "特別な魅力や力を持つものを表す形容詞。",
+      "ejemplo": "クスコは魔法のような都市です。"
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "首都",
+      "explicacion": "国や帝国の主要な都市を指す名詞。",
+      "ejemplo": "この場所はかつてインカ帝国の首都でした。"
+    },
+    {
+      "termino": "帝国",
+      "explicacion": "皇帝によって統治される領土の集合を指す名詞。",
+      "ejemplo": "インカ帝国は非常に広大でした。"
+    },
+    {
+      "termino": "神殿",
+      "explicacion": "宗教的礼拝に捧げられた建物を指す名詞。",
+      "ejemplo": "昔、この場所は太陽の神殿でした。"
+    },
+    {
+      "termino": "技術者",
+      "explicacion": "科学的・技術的知識を応用する専門家を指す名詞。",
+      "ejemplo": "インカの人々は卓越した技術者でした。"
+    },
+    {
+      "termino": "段々畑",
+      "explicacion": "斜面に作られた耕作用の平らな段状の土地を指す名詞。",
+      "ejemplo": "彼らは…石の段々畑で栽培していました。"
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "雲の中に",
+      "explicacion": "雲の近く、非常に高い場所にあることを意味する表現。この文脈では、マチュピチュの位置を表しています。",
+      "ejemplo": "それは雲の中にある都市です。"
+    },
+    {
+      "termino": "お腹が空いている",
+      "explicacion": "食べる必要性を感じることを意味する慣用表現。",
+      "ejemplo": "お腹が空いています。"
+    },
+    {
+      "termino": "いつまでも覚えている",
+      "explicacion": "ある経験が忘れられないものであることを強調する表現。",
+      "ejemplo": "それはいつまでも覚えている経験になるでしょう。"
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "場所や物を描写する",
+      "explicacion": "場所や物の物理的特徴や性質について詳細を述べる機能。",
+      "ejemplo": "壁はとても高くて頑丈です。石は大きく、とても密接に組み合わされています。"
+    },
+    {
+      "termino": "過去と現在の個人的経験を語る",
+      "explicacion": "異なる時制で自分自身の出来事や体験を話す機能。",
+      "ejemplo": "今日、私はとても特別な場所にいます…何年も前、この場所は首都でした…"
+    },
+    {
+      "termino": "将来の願望や意図を表現する",
+      "explicacion": "計画、願望、またはやりたいことを伝える機能。",
+      "ejemplo": "私は明日の朝に行きたいです。とても早い時間に電車に乗る必要があります。"
+    }
+  ],
+  "palabras_clave": [
+    "クスコ",
+    "ペルー",
+    "インカ",
+    "太陽",
+    "石",
+    "アルマス広場",
+    "観光客",
+    "アルパカ",
+    "コリカンチャ",
+    "神殿",
+    "金",
+    "博物館",
+    "技術者",
+    "農民",
+    "マチュピチュ",
+    "電車",
+    "ウルバンバ",
+    "パチャママ",
+    "大地",
+    "コカ茶"
+  ],
+  "narrativa": "La Ciudad del Sol\nHola, mi nombre es Mateo. Hoy estoy en un lugar muy especial. Estoy en Cusco, Perú. Esta es una ciudad muy antigua y muy bonita. Hace muchos años, este lugar era la capital del Imperio Inca. El Imperio Inca fue muy grande y muy importante en la historia de América del Sur.\nHoy el clima es perfecto. El sol brilla mucho y el cielo es azul. Yo camino por las calles de piedra. Las paredes son muy altas y fuertes. Las piedras son grandes y están muy juntas. Es increíble porque los incas no usaban cemento. Todo es perfecto. Yo toco una piedra con mi mano. Está fría, pero es muy lisa.\nEn el centro de la ciudad está la Plaza de Armas. Hay muchas personas aquí. Hay turistas de muchos países: Japón, China, Estados Unidos y Francia. También hay personas locales. Ellos usan ropa con muchos colores. La ropa es de lana de alpaca. La alpaca es un animal muy común en las montañas. Es un animal suave y tranquilo.\nYo busco un edificio muy famoso. El edificio se llama Coricancha. En el pasado, este lugar era el Templo del Sol. Para los incas, el sol era un dios. El nombre del dios era Inti. Los incas pensaban que el sol daba vida a las plantas y a las personas. Por eso, el Templo del Sol tenía mucho oro. El oro brilla como el sol.\nAhora, yo entro al museo. Veo objetos de oro y plata. También veo cerámicas con dibujos de animales. Aprendo que los incas eran excelentes ingenieros. Ellos construyeron caminos muy largos en las montañas. También eran buenos agricultores. Ellos cultivaban papas y maíz en terrazas de piedra.\nCerca de Cusco está Machu Picchu. Es una ciudad en las nubes. Yo quiero ir mañana por la mañana. Necesito tomar un tren muy temprano. El viaje en tren es largo, pero el paisaje es hermoso. Hay muchos árboles verdes y un río grande. El río se llama Urubamba.\nEstoy feliz de estar aquí. La historia es muy interesante. Me gusta aprender palabras nuevas. Por ejemplo, aprendo la palabra \"Pachamama\". Significa \"Madre Tierra\". Para las personas aquí, la tierra es sagrada. Debemos cuidar la naturaleza y las montañas.\nEs hora de comer. Tengo hambre. En Cusco la comida es deliciosa. Voy a un restaurante pequeño. Quiero comer una sopa caliente y beber un té de coca. El té de coca es bueno para caminar en las montañas porque la ciudad está muy alta.\nCusco es una ciudad mágica. Tiene mucha cultura y mucha energía. Si tú quieres aprender historia y ver paisajes bonitos, debes visitar este lugar. Es una experiencia que vas a recordar siempre. Mañana mi aventura continúa en las montañas."
+}
