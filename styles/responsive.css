@@ -104,7 +104,7 @@
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
-        font-size: clamp(1rem, 5.5vw, 1.5rem);
+        font-size: clamp(1.1rem, 6.5vw, 1.7rem);
         line-height: normal;
         width: 100%;
 
